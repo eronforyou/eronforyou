@@ -27,9 +27,3 @@ Dupe Mod is a client-side utility mod for Minecraft 1.21, based on Ui Utils. It�
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=eronforyou&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eronforyou&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eronforyou&theme=tokyonight" alt="GitHub Streak" />
-
