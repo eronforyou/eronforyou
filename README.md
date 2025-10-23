@@ -25,5 +25,11 @@ Dupe Mod is a client-side utility mod for Minecraft 1.21, based on Ui Utils. Itâ
 
 ---
 
-## GitHub Stats
+### Discord Token Checker
 
+A modern web-based tool that checks multiple Discord tokens at once.  
+It features file loading, duplicate filtering, rate-limit protection, and valid token exporting â€” all inside a clean glass-style UI.
+
+[Open Live Demo](https://eronforyou.github.io/discord-token-checker)
+
+---
