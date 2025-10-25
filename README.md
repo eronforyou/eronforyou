@@ -33,3 +33,10 @@ It features file loading, duplicate filtering, rate-limit protection, and valid 
 [Open Live Demo](https://eronforyou.github.io/discord-token-checker)
 
 ---
+
+### Duper
+
+Duper is a modern, intelligent desktop application made for **Minecraft Java Edition**.  
+It detects Minecraft processes, allows method selection, and manipules java codes for duping..  
+
+[Open Live Demo](https://eronforyou.github.io/Duper)
